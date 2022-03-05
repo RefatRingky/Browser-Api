@@ -9,3 +9,10 @@
 myAlert= () =>{
   alert("Salute Your Boss");
 }
+
+myAlert2 = () =>{
+  confirm('Yes I am coming')
+}
+myAlert3 = () =>{
+  prompt('Enter Your Name')
+}
